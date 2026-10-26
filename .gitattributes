@@ -1,0 +1,2 @@
+# Preserve bytes so published runtime files match the evaluation SHA-256 values.
+* -text
